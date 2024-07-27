@@ -1,6 +1,6 @@
 # Kats codes
 
-## Some first codes when learing in WoTech
+## Some of my first codes when learing in WoTech
   Thanks to Datorium,  Smartworkacademy and Riga TechGirls
 
 ## My Skills learning in WoTech:
